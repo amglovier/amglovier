@@ -1,9 +1,21 @@
-## Hi there 👋
+# Hi! 👋
+
+I'm Ashley, Executive Assistant at GitHub supporting [Luis Bitencourt-Emilio](https://github.com/lbe) (and currently covering for Todd Manion's team while Lex is on maternity leave through December).
+
+I live in Tacoma, Washington 🌲
+
+## About me
+- 🥋 Blue belt in Jiu Jitsu — I train with my son Jake
+- 🐶 Obsessed with my dog Ada — a 6-year-old cockapoo and my personal snuggly teddy bear
+- 👩‍👧‍👦 Mom of three: Ella (16), Shiloh (15), and Jake (12)
+- 🚗 Currently enjoying having a second driver in the family
+- ❤️ I love this stage of parenting — the teenage years are underrated
+- 🏡 My partner and I are a modern Brady Bunch (separate houses, fewer hormone collisions)
 
 ## Things I enjoy
 - 🤼 Jiu Jitsu & martial arts
 - 🐾 Couch time with Ada
-- ☕ Good coffee & good conversation. Also, dark chocolate in all forms!
+- ☕ Good coffee & good conversation
 - 📋 Making order out of chaos (at work and at home)
 - 🎉 Connecting people and building community
 - 🧠 Studying personality types — the Enneagram is my favorite
