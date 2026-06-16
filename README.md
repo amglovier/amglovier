@@ -27,8 +27,8 @@ I'm fascinated by what makes people tick. Understanding personality types helps 
 
 ## The EA journey
 My career has taken some interesting turns:
-- 🎵 **Key to Change** — EA at a start-up non-profit music studio ([keytochangestudio.org](https://keytochangestudio.org))
 - 📊 **New Relic** — EA to the SVP of Sales (observability)
+- 🎵 **Key to Change** — EA at a start-up non-profit music studio ([keytochangestudio.org](https://keytochangestudio.org))
 - 🏛️ **Commonwealth of Pennsylvania** — where it all started, in the Lt. Governor's office
 - 🏥 **Plastic surgeon's office** — yes, I got to observe surgeries (and yes, it was wild)
 
