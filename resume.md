@@ -24,7 +24,7 @@ Strategic Executive Assistant with 6+ years supporting C-suite and SVP-level lea
 
 ## Experience
 
-### Executive Assistant, SVP of Copilot
+### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> Executive Assistant, SVP of Copilot
 **GitHub – Remote** | 12/2025 – Present
 
 - Provide strategic calendar and operational support to the SVP of Copilot, proactively protecting deep work blocks
@@ -32,7 +32,7 @@ Strategic Executive Assistant with 6+ years supporting C-suite and SVP-level lea
 - Collaborate with EBC partners and cross-functional teams to ensure seamless logistics for customer and executive engagements
 - Leverage GitHub Copilot and automation tools to streamline administrative processes and reduce manual overhead
 
-### Executive Assistant, SVP of Sales, Americas
+### <img src="https://cdn.worldvectorlogo.com/logos/new-relic-3.svg" width="20"> Executive Assistant, SVP of Sales, Americas
 **New Relic – Remote** | 07/2022 – 12/2025
 
 - Partnered with SVP of Sales to drive executive-customer engagement strategy, contributing to measurable churn reduction
@@ -40,15 +40,14 @@ Strategic Executive Assistant with 6+ years supporting C-suite and SVP-level lea
 - Reclaimed 15–20 hours/week of executive focus time through strategic calendar architecture and workback planning
 - Served as EA community leader — onboarded new EAs and established GTM-specific operational best practices
 
-### EA to the Founder & Executive Director
+### <img src="https://keytochangestudio.org/favicon.ico" width="20"> EA to the Founder & Executive Director
 **Key to Change – Remote** | 11/2020 – 07/2022
 
 - Partnered with the Founder to scale a nonprofit music studio: 4x enrollment, 3x revenue, 2x scholarship distribution for underserved students
-- Led end-to-end planning for high-impact fundraising events, directly driving donor retention and organizational sustainability
-- Managed a high-volume calendar with constantly shifting priorities, aligning the Founder's time to strategic goals
-- Built strong donor and community relationships, securing substantial contributions and enhancing long-term engagement
+- Led end-to-end planning for high-impact fundraising events, directly driving donor engagement and revenue growth
+- Managed executive communications, board meeting logistics, and community partnerships to advance the organization's mission
 
-### Career Break – Full Time Parent
+### Career Break | Full-Time Parent
 10/2011 – 10/2020
 
 ### Director, Programs
