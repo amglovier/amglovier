@@ -36,3 +36,4 @@ From the Lt. Governor's office to the operating room to tech — I've never take
 
 ## Find me
 - [LinkedIn](http://linkedin.com/in/ashley-glovier-b2858813/)
+- [Resume](./RESUME.md)
