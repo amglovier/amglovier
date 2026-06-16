@@ -12,13 +12,6 @@ I live in Tacoma, Washington 🌲
 - ❤️ I love this stage of parenting — the teenage years are underrated
 - 🏡 My partner and I are a modern Brady Bunch (separate houses, fewer hormone collisions)
 
-## The EA team
-I work alongside an amazing group of EAs on the product team:
-- Rachel
-- Sylvie
-- Jazmin
-- Lex
-
 ## Things I enjoy
 - 🤼 Jiu Jitsu & martial arts
 - 🐾 Couch time with Ada
